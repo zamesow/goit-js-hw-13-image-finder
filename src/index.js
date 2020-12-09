@@ -1,3 +1,1 @@
-import './css/common.css';
-
-import './js/image-finder';
+import './js/01-try-catch';
